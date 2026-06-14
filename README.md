@@ -1,1 +1,1 @@
-# cursor-setuo-renolf
+# cursor-setup-renolf
