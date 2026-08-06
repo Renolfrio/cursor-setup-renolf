@@ -61,8 +61,7 @@ The research process consisted of four stages:
 3. Comparing areas where experts agree and disagree.
 4. Synthesizing the findings into one practical operating framework.
 
-Every recommendation included in this document references the original source whenever possible.
-
+Where specific source links and publication dates were available, recommendations are attributed to the relevant expert and linked to the collected research. Where exact post-level metadata was not available in the research notes, the expert is identified and the supporting research is referenced in the repository.
 ---
 
 ## 3. Executive Summary
