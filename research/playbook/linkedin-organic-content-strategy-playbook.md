@@ -90,9 +90,8 @@ The strongest content consistently focuses on solving audience problems before p
 
 ### Sources
 
-- Ash Read — LinkedIn Posts (June 2026)
-- Adam Erhart — LinkedIn Posts (June 2026)
-
+* Ash Read — LinkedIn Posts (June 2026)
+* Adam Erhart — [LinkedIn post](https://www.linkedin.com/posts/adamerhart_sales-get-easier-when-people-trust-you-before-activity-7367519840187658240-45ac) — approximately 10 months ago
 ---
 
 ## Principle 2 — Build Clear Positioning
@@ -109,9 +108,8 @@ Clear positioning helps potential customers immediately understand who you help,
 
 ### Sources
 
-- Adam Erhart — LinkedIn Posts (June 2026)
-- Alex Hormozi — LinkedIn Content (June 2026)
-
+* Adam Erhart — [LinkedIn post](https://www.linkedin.com/posts/adamerhart_sales-get-easier-when-people-trust-you-before-activity-7367519840187658240-45ac) — approximately 10 months ago
+* Alex Hormozi — [LinkedIn post](https://www.linkedin.com/posts/alexhormozi_if-you-make-content-you-like-making-youll-activity-7397310298875031552-6VjF) — approximately 7 months ago
 ---
 
 ## Principle 3 — Publish Consistently
@@ -128,9 +126,8 @@ Consistent publishing increases familiarity and strengthens long-term audience t
 
 ### Sources
 
-- Justin Welsh — LinkedIn Posts (June 2026)
-- Ash Read — LinkedIn Posts (June 2026)
-
+* Justin Welsh — [LinkedIn post](https://www.linkedin.com/posts/justinwelsh_from-afraid-to-share-my-thoughts-to-94k-activity-6801117795418439680-erWw) — approximately 5 years ago
+* Ash Read — LinkedIn Posts (June 2026)
 ---
 
 ## Principle 4 — Prioritize Content Distribution
@@ -147,8 +144,8 @@ Creating excellent content alone is not enough. Successful marketers maximize th
 
 ### Sources
 
-- Ross Simmonds — LinkedIn Posts (June 2026)
-- Gael Breton — LinkedIn Posts (June 2026)
+* Ross Simmonds — [LinkedIn post](https://www.linkedin.com/posts/rosssimmonds_contentstrategy-activity-7312122942966898688-GlSR) — approximately 1 year ago
+* Gael Breton — LinkedIn Posts (June 2026)
 
 ---
 
@@ -166,8 +163,8 @@ Content strategy should evolve based on performance data and audience feedback r
 
 ### Sources
 
-- Brian Dean — LinkedIn Posts (June 2026)
-- Rand Fishkin — LinkedIn Posts (June 2026)
+* Brian Dean — [LinkedIn post](https://rs.linkedin.com/posts/brianedean_my-content-has-brought-in-over-37-million-activity-6998554748907843584-mHTm) — approximately 3 years ago
+* Rand Fishkin — [LinkedIn post](https://www.linkedin.com/posts/randfishkin_its-not-simple-but-it-is-straightforward-activity-7270548604384079872-Nsq0) — approximately 1 year ago
 
 The recommendations in this document are supported by the research collected throughout this project and are intended to serve as a practical reference rather than a rigid set of rules.
 
